@@ -1,9 +1,9 @@
-<style>
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: arial;
+    font-family: arial !important;
 }
 header {
     height: 100%;
@@ -260,5 +260,4 @@ service-3 .service-box .y-us-content h4 {
 p{
 text-align: justify;
 }
-
 
